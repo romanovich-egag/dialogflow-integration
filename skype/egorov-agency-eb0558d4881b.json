@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "egorov-agency",
+  "private_key_id": "eb0558d4881bd365ab85f1e4e7489252ac6e0eeb",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCiH1yIHpDTTjBl\nPOwfgntwus+l6tFXILQqKoCdIgq0GEG4fgHtq+vPDkrgrY2vkM8eycFedO8kOLTD\ngE9Ne4C3TsRTZ3+LCFxY2tANgFTqhy5bHEOMlWt41Qe6rpN31Ra4JGOecxakw3sy\n3FJTwFJMh4Lp1YY0nmkTU28Y3OMSQHp5z45LUmai3MwTq001YY8f8G1Hw8qopvks\n8oOAqL5VuzD+JyFPPxUnVdbsmUXKfOP13Bx38H1KpUSVaNEI/310cw6vN1LlBVqX\na9l5wEfCMZCDgjT+2xCDNvWfrtoHCQHihRCSim+a5/mtvDUUAgcp3FeU7drd9/gm\nWTvAUUsvAgMBAAECggEAEHay2jflvoT629e7UC/bV/AAqk7AV41rU7o2jr59lnBo\nLCjPtVJ3g0gQ8+QWtrTenmJ1ZUw8BNJQDmfMpd0G40FNJVMmBqPLYlKbkjjCvCu3\nhL/ICadwNI3IV9LmsuKhiK2urXvuhBOTQppRL07L4hhY2Q+QA26a08BDUKO4g4p9\n97c1jYRYKxH5U/kQwWCAUMVk7YidyLN8aWKYDhnBh4R4/1I0Z92E2eVJaXqnhq16\n7e2x0nsNdOEerz27PKNQ6dEMTgWXJXmiTkjU+4fyUIj9BRi3BOsRVXfRi9HLXBGM\nGa5rPbzPkEMtoCz/t+3pmoQMIDDHEerlMVOUO8z0wQKBgQDWLh9jQzLITcFI6USO\nCxMwJrg4gSsUmTH9Y7TMEYm2OBtdsnpNXfpqycq9yLAX80n6IzsP22LNwYF/pCPt\ny2DoZpMV9i26qkFr//GJEdwPm7vJEALdjKYTmbWudASW1rsP2SbMoJO5Gn0AQB2c\nHZOD7sYyC15VUVQLRZ1Wpm9dkQKBgQDBxx3mR2p1ZvMvcPuoHsuMmIdalwuRxnpM\n3P/PDP2OLsehTGx/pjZavSm6/7MVbY9Shc1yqpKPdUuInWYGxL1sUHJ4AIktiW9+\n/nHAbcD3IAzjZj/4yLmh7wZ7rUsNwLG+a4meb3YjHL0DMpbvJAO5mrmTAC3FZpy6\nYImf8ES8vwKBgEcsGH4RzIRHYl1qNr/E6mFr3HfaZIh5x+TeByxw/4Qv7NgcAQxI\nmHh4Cgk68VlkHUckAfJpAtJA5VmXH+FbXh6cR3Ba2CNZhFfxO0BDUQ9WvvY3fdxF\nasLEp10LbKL7RDol/QCus6glJzi4FZ7VLToAVJg4suZDGlyMi5ZJxGQhAoGAMuIP\nRt2v5b4v02BOpLnZZ0TSHgaVoiTFDpPllD/sAL7l6sP/pZFGqpMLdzAXnWPUg63g\n4eBKdeMt/2SdWt+kgeGp/TreypdRML6trgLj7cB7weaim7hRjmUOhcFeePEFe2QP\nkgvgsJ2mQEWzfn4tgDpRynj8i95C/2nEGbxkwE8CgYAwm3QET4T1ezvEMfyxpxQy\nsGQKFVUAx+F/p4++Fm8Wn5l+k7G3Xhyr+fqcyvqWyWSK/tZ1FW3h/5XLRtIe1kML\nxbm5sTxwlT+T2yHSo9D+T4VFDxOUO5Spuy6A7jd/kHA9yWYNVudZBb1gW0KcpMny\nuI6i2hreSdcGooXKiSXwjA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "dialogflow-service-agent@egorov-agency.iam.gserviceaccount.com",
+  "client_id": "115703648814282368946",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dialogflow-service-agent%40egorov-agency.iam.gserviceaccount.com"
+}

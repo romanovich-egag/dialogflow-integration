@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "egorov-agency",
+  "private_key_id": "49487023a8c33ba3655d012c34bc41cbdf5b2b55",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDiTEBhFfUzNv2U\nSjW9mlE1U5CTaS2IK2Pw++zgkM4IO1ApJxabRstXyZACmNbL2va6q4ubkq62sMUB\nYDD3yRNw7Kx9fjARixhRLchmgw99y278Asyj5rF9otTKJFlb/xQR5xl4+YEFO7jF\n7VNWdAKBnnsVU8auE0m7k1U/0L15hdGzydN8Y/myjplhZHrX3VUUOy0JKe9Vwa4T\n4r2MT5+KnDFnikmHyBV8LvXs7K7ZE64lLIHmjLBep2I5XpT37c5iyM5ON5DMi2pw\nyHOiZ/eXbdDvtUqdf7K8XnKuBLH49uF4KiPPtkcRpHFuj81tLNLIBtKdXwTLtdvt\n+fc9Lf0pAgMBAAECggEACWGnCe9UBOLFefQ790eHu38in1MtAaK83Voa/Jym3KAA\nMiiORHMs+GTL3SkIFJeYAsPxq8orBzoGUh4yVtS67djzS1jjy20PCG8uX5OU3OlG\nCVlgsaByy2t981W076kAOcAb0KWqqTR2iUa4svzoYrEW11rrrGlHyqiFuvl0ysNt\nva+rMSVo+CIcS2LQpdh8uZHr5mw8/pkY/cZ+kXqbYXdgHFN0XRK4p26qsynzlksR\n0v0XJB9J7va7oHlF+/btfc+QreiIPMq6EEsf/ZIIfJsimPx4OosJwxv6h7RDEsun\nwMIY0TUXOKWwgXQcz+fyU+P589QDJY+/4SXEIVo+gQKBgQD2inIXgYnKCzAYKQTX\nDNYpeUy7RDZ7z8U/hCd9hlXMS6xlNhBIBvpvX266hdOwVFMYVZat0QTqRucOKni4\n8Wb8+ZdRC24tif8iuICZWXtmqov+a+v5lyt1NhQ4CtqkoEpLgkUVzWNmwBuNlxG7\nYIs5CbWfLDb3mfaEVfRdxtX2QQKBgQDq+voiPx++jIf+b96Mkz4EnUv7D6pxZSvr\nogEl4OnYA1LN+O+Oe99BWy8DCH9qhhqQ+/cWV9buzCjkrFs6VGFKFwg4TIbeAwE5\n8AcwHN82VsVk+65A+1esn/eMtpQRWHLOUJ2aF5iByfhHwtyjk8ebIAHU5fl7xIMF\nQFkWapHc6QKBgQDZC0kmKISFuxO8MWBxcnuYR5Gly4eruF6ObGnXuEwQbw52jAIJ\nZxtSsVFqJCcZNSNyaOceXsVU+tavQfTF3MAuNg1g7A8zSCm1B3kvh/d7iul0Ms6s\nDMnVhqaGMAgMppDBqQ3pA8hezQF0xWp266elr0aVuvcpRAIivwlDBamYAQKBgQC/\nFzszfoIiQ8aUdAVX7KYSuph/o03Iya3eAfFNDIse0BUWy8qE5Ne6Hp0sqkx0JHqW\nTVGzKdvwdrcKv9+wn84+olxc7F8BTRBCPaCaz9/2ILqGVOZwkfXKvIxkMlZXhMZY\nYdbI6UdsxQLT2PP1UsiQrobOy/cHX9fs/Vd1k1TrgQKBgAxzfItSOgM0vZw3eXSL\nFo7eKSFoS+/TXLNyYIeo3rv9jYKKZ4+wYsixkvH2PnzgEuGYblWVFmc0yIvFvBEz\n+R1Ak4e53Nxi38tcdvsEv8PW7jqCuGpOLek1Og4lAzCd1/+SFDMP9rUR7gTIaAaA\nnWcx+eU/LCsc9FzSMmKlhiRR\n-----END PRIVATE KEY-----\n",
+  "client_email": "dialogflow-service-agent-viber@egorov-agency.iam.gserviceaccount.com",
+  "client_id": "115215059484974957477",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dialogflow-service-agent-viber%40egorov-agency.iam.gserviceaccount.com"
+}
